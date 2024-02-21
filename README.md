@@ -18,7 +18,7 @@ Este repositorio contiene una serie de notebooks de Jupyter con ejercicios para 
 ### Cómo Utilizar los Notebooks
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
-git clone https://github.com/tu_usuario/ejercicios-python.git
+git clone https://github.com/karinem0/ejercicios-python.git
 
     Abre los notebooks de Jupyter en tu entorno de desarrollo preferido.
 
